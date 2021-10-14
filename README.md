@@ -3,6 +3,5 @@
 
 ### Pandas - Visualización de datos
 
-**Fecha de entrega:** 13/10/21 20:00hs
-**Ayudante:** Gian
-
+- Fecha de entrega: 13/10/21 20:00hs
+- Ayudante: Gian
