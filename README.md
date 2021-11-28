@@ -10,3 +10,8 @@
 
 - Fecha de entrega: 01/11/21 21:00hs
 - Ayudante: Martin
+
+### Machine Learning
+
+- Fecha de entrega: 28/11/21 23:59hs
+- Ayudante: Damian
